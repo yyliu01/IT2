@@ -58,7 +58,7 @@ C.epochs = 60
 
 """ wandb setup """
 # Specify you wandb environment KEY; and paste here
-C.wandb_key = "6cde1f75fbdf236d8e89b77d313d74b40e3d8d5f"
+C.wandb_key = ""
 
 # Your project [work_space] name
 C.project_name = "IT2"
