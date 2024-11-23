@@ -3,7 +3,8 @@
 >
 > by Yuyuan Liu*, Yuanhong Chen*, Hu Wang, Vasileios Belagiannis, Ian Reid and Gustavo Carneiro
 >
-> 
+<img src="https://github.com/yyliu01/IT2/assets/102338056/93e7398e-aed4-4736-b3eb-d182956d145f.png" width="850" height="300" />
+
 ### Installation
 please install the dependencies and dataset based on this [***installation***](./docs/installation.md) document.
 
@@ -14,12 +15,13 @@ please follow this [***instruction***](./docs/before_start.md) document to repro
 Please consider citing our paper in your publications if it helps your research.
 
 ```bibtex
-@inproceedings{liu2023residual,
-  title={Residual pattern learning for pixel-wise out-of-distribution detection in semantic segmentation},
-  author={Liu, Yuyuan and Ding, Choubo and Tian, Yu and Pang, Guansong and Belagiannis, Vasileios and Reid, Ian and Carneiro, Gustavo},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={1151--1161},
-  year={2023}
+@inproceedings{liu2025ittakestwo,
+  title={ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation},
+  author={Liu, Yuyuan and Chen, Yuanhong and Wang, Hu and Belagiannis, Vasileios and Reid, Ian and Carneiro, Gustavo},
+  booktitle={European Conference on Computer Vision},
+  pages={81--99},
+  year={2025},
+  organization={Springer}
 }
 ```
 
