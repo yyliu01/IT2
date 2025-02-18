@@ -1,5 +1,5 @@
 # IT2
-> [ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation](https://arxiv.org/pdf/2211.14512.pdf)
+> [ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation](https://arxiv.org/pdf/2407.07171)
 >
 > by Yuyuan Liu*, Yuanhong Chen*, Hu Wang, Vasileios Belagiannis, Ian Reid and Gustavo Carneiro
 >
